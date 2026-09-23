@@ -1,0 +1,62 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "vEO5e3HxRQhBMspTFvPwn"
+uri = "file://artifacts/healthy-nation/public/medicines/paracetamol.png"
+type = "image"
+title = "paracetamol"
+
+[[generated]]
+id = "_H11tq2ATRxv3D2dimgxF"
+uri = "file://artifacts/healthy-nation/public/medicines/ibuprofen.png"
+type = "image"
+title = "ibuprofen"
+
+[[generated]]
+id = "b--nU5TruURU0WKxdH2nJ"
+uri = "file://artifacts/healthy-nation/public/medicines/cetirizine.png"
+type = "image"
+title = "cetirizine"
+
+[[generated]]
+id = "A77nc9iaDt31q7xrcp9oH"
+uri = "file://artifacts/healthy-nation/public/medicines/albuterol-inhaler.png"
+type = "image"
+title = "albuterol_inhaler"
+
+[[generated]]
+id = "B3uI2J2_f4o7T9EdnwKqa"
+uri = "file://artifacts/healthy-nation/public/medicines/vitamin-d3.png"
+type = "image"
+title = "vitamin_d3"
+
+[[generated]]
+id = "Q26VTShv6IDerNS9xrhTh"
+uri = "file://artifacts/healthy-nation/public/medicines/iron-folic.png"
+type = "image"
+title = "iron_folic_acid"
+
+[[generated]]
+id = "qcukR158yPKWbMAKPouHp"
+uri = "file://artifacts/healthy-nation/public/medicines/omeprazole.png"
+type = "image"
+title = "omeprazole"
+
+[[generated]]
+id = "2Gmg1kuoZxMQrJogbDQVZ"
+uri = "file://artifacts/healthy-nation/public/medicines/loratadine.png"
+type = "image"
+title = "loratadine"
+
+[[generated]]
+id = "vS861MKGZAmApPFaYXgC5"
+uri = "file://artifacts/healthy-nation/public/medicines/amoxicillin.png"
+type = "image"
+title = "amoxicillin"
+
+[[generated]]
+id = "qWwWWrVS0PRRZ4kA_uIKL"
+uri = "file://artifacts/healthy-nation/public/medicines/metformin.png"
+type = "image"
+title = "metformin"
